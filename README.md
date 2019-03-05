@@ -1,6 +1,6 @@
 # ChinaPatentStatuses
 
-A summary of China Patent Status.
+A summary of China Patent Statuses.
 
 | 案件状态代码 | 案件状态                   |
 | ------------ | -------------------------- |

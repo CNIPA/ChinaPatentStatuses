@@ -77,6 +77,6 @@
 | 970          | 放弃专利权（主动放弃）     |                                                                                  |
 | 971          | 放弃专利权（重复授权）     |                                                                                  |
 | 972          | 放弃专利权（同样发明创造） |                                                                                  |
-| 990          | 无效宣告失效               |                                                                                  |
 | 997          | 届满终止，待失效           |                                                                                  |
-| 999          | 届满终止失效               | Invalidation of suspension due to expiration of time limit                       |
+| 998          | 届满终止失效               | Invalidation of suspension due to expiration of time limit                       |
+| 999          | 无效宣告失效               |                                                                                  |

@@ -54,6 +54,7 @@
 | 383    | 等IPR确认中通答审意见        |                                                                                  | 自定义状态                                                                 |
 | 384    | 等中通答审意见回执           |                                                                                  | 自定义状态                                                                 |
 | 390    | 中通回案实审                 | Returned case after Nth office action for substantive examination                |
+| 395    | 放弃，等视撤通知书           |                                                                                  | 自定义状态                                                                 |
 | 400    | 逾期视撤，等恢复             | Deemed to be withdrawn due to overdue, Waiting for restoration                   |
 | 410    | 逾期视撤失效                 | Deemed to be withdrawn due to overdue, Invalidation                              |
 | 500    | 待质检抽案                   |
